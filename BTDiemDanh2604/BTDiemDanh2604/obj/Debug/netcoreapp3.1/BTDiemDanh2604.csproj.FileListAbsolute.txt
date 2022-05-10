@@ -1,0 +1,14 @@
+E:\HK2-2022\T3-1_2-C#\BaiTapC#\BaiTapC\BTDiemDanh2604\BTDiemDanh2604\bin\Debug\netcoreapp3.1\BTDiemDanh2604.exe
+E:\HK2-2022\T3-1_2-C#\BaiTapC#\BaiTapC\BTDiemDanh2604\BTDiemDanh2604\bin\Debug\netcoreapp3.1\BTDiemDanh2604.deps.json
+E:\HK2-2022\T3-1_2-C#\BaiTapC#\BaiTapC\BTDiemDanh2604\BTDiemDanh2604\bin\Debug\netcoreapp3.1\BTDiemDanh2604.runtimeconfig.json
+E:\HK2-2022\T3-1_2-C#\BaiTapC#\BaiTapC\BTDiemDanh2604\BTDiemDanh2604\bin\Debug\netcoreapp3.1\BTDiemDanh2604.runtimeconfig.dev.json
+E:\HK2-2022\T3-1_2-C#\BaiTapC#\BaiTapC\BTDiemDanh2604\BTDiemDanh2604\bin\Debug\netcoreapp3.1\BTDiemDanh2604.dll
+E:\HK2-2022\T3-1_2-C#\BaiTapC#\BaiTapC\BTDiemDanh2604\BTDiemDanh2604\bin\Debug\netcoreapp3.1\BTDiemDanh2604.pdb
+E:\HK2-2022\T3-1_2-C#\BaiTapC#\BaiTapC\BTDiemDanh2604\BTDiemDanh2604\obj\Debug\netcoreapp3.1\BTDiemDanh2604.csproj.AssemblyReference.cache
+E:\HK2-2022\T3-1_2-C#\BaiTapC#\BaiTapC\BTDiemDanh2604\BTDiemDanh2604\obj\Debug\netcoreapp3.1\BTDiemDanh2604.GeneratedMSBuildEditorConfig.editorconfig
+E:\HK2-2022\T3-1_2-C#\BaiTapC#\BaiTapC\BTDiemDanh2604\BTDiemDanh2604\obj\Debug\netcoreapp3.1\BTDiemDanh2604.AssemblyInfoInputs.cache
+E:\HK2-2022\T3-1_2-C#\BaiTapC#\BaiTapC\BTDiemDanh2604\BTDiemDanh2604\obj\Debug\netcoreapp3.1\BTDiemDanh2604.AssemblyInfo.cs
+E:\HK2-2022\T3-1_2-C#\BaiTapC#\BaiTapC\BTDiemDanh2604\BTDiemDanh2604\obj\Debug\netcoreapp3.1\BTDiemDanh2604.csproj.CoreCompileInputs.cache
+E:\HK2-2022\T3-1_2-C#\BaiTapC#\BaiTapC\BTDiemDanh2604\BTDiemDanh2604\obj\Debug\netcoreapp3.1\BTDiemDanh2604.dll
+E:\HK2-2022\T3-1_2-C#\BaiTapC#\BaiTapC\BTDiemDanh2604\BTDiemDanh2604\obj\Debug\netcoreapp3.1\BTDiemDanh2604.pdb
+E:\HK2-2022\T3-1_2-C#\BaiTapC#\BaiTapC\BTDiemDanh2604\BTDiemDanh2604\obj\Debug\netcoreapp3.1\BTDiemDanh2604.genruntimeconfig.cache
